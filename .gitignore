@@ -1,0 +1,15 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Streamlit local state
+.streamlit/
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Data files (Keep your raw files on your machine, not GitHub)
+*.csv
+*.xlsx
