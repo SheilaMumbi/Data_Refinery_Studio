@@ -258,7 +258,7 @@ with st.sidebar:
             st.caption("Apply treatment settings within the **Data Cleaning** workflow tab.")
 
 # ─── Main Interface ─────────────────────────────────────────────────────────────
-st.markdown('<div class="hero-title">Data Clean Studio</div>', unsafe_allow_html=True)
+st.markdown('<div class="hero-title">Data Refinery Studio</div>', unsafe_allow_html=True)
 st.markdown('<div class="hero-sub">// profile · clean · evaluate diagnostics · download</div>', unsafe_allow_html=True)
 st.markdown("<br>", unsafe_allow_html=True)
 

@@ -35,3 +35,7 @@ A sleek, automated data preprocessing and structural diagnostics workspace built
 - **Interface Frontend:** Streamlit (with embedded Syne & JetBrains Mono web-typography rules)
 - **Data Engineering:** Pandas, NumPy
 - **Visual Diagnostics:** Plotly Express
+
+## Deployed app
+- https://datarefinerystudio.streamlit.app
+
